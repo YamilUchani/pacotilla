@@ -1,2 +1,0 @@
-# pacotilla
-blog chido
